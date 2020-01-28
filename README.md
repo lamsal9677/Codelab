@@ -5,7 +5,7 @@ App displays Hello from Sanskar initially which can be later changed to Android 
 
 ### App Walk-though
 
-<img src="https://imgur.com/a/cUKwg3B" width=200><br>
+<img src="https://i.imgur.com/ydjMJ3M.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
