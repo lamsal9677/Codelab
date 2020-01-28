@@ -1,10 +1,9 @@
 ## SanskarCP
 
 ### App Description
-App displays Hello from Sanskar initially which can be later changed to Android is Awesome! Also, the color is modifiable to green and the background is a custom color. App can also take the user's input and display the text.
+App displays Hello from Sanskar initially. The app features 4 buttons, one TextView and one EditText. User can click "Change color" button to change the color of the TextView. Also, user can click on "Change Text" to edit the text on the TextView. Also, user can enter any custom text on the bottom text view and click on "Change Text" to change the TextView. This all can be Reset to default with a click of a single button.
 
 ### App Walk-though
-
 <img src="https://i.imgur.com/ydjMJ3M.gif" width=200><br>
 
 ### Required User Stories
@@ -13,7 +12,7 @@ App displays Hello from Sanskar initially which can be later changed to Android 
 - [x] 3. User can tap a button to change the text color of the label.
 
 ### Optional User Stories
-- [x] 1. User can tap a button to change the color of the background view.  
+- [ ] 1. User can tap a button to change the color of the background view.  
 - [x] 2. User can tap a button to change the text string of the label - Android is Awesome!  
 - [x] 3. User can tap on the background view to reset all views to default settings.  
 - [x] 4. User can update the label text with custom text entered into the text field.  
